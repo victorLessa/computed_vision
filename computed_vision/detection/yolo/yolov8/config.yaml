@@ -1,8 +1,0 @@
-# Train/val/test sets
-train: '\\wsl.localhost\Ubuntu\home\victor\machine_learning\computed_vision\detection\yolo\yolov8\images\train'
-val: '\\wsl.localhost\Ubuntu\home\victor\machine_learning\computed_vision\detection\yolo\yolov8\images\validation'
-test: '\\wsl.localhost\Ubuntu\home\victor\machine_learning\computed_vision\detection\yolo\yolov8\images\test'
-
-# Classes
-names:
-  0: face
